@@ -1,6 +1,6 @@
 More about me
 ```kotlin
-val terrakok = developer {
+val noskov = developer {
     about {
         name = "Яков Носков"
         role = Frontend Developer
