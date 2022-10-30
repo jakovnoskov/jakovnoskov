@@ -1,5 +1,5 @@
 More about me
-```kotlin
+```JavaScript
 val terrakok = developer {
     about {
         name = "Яков Носков"
