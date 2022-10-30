@@ -1,3 +1,4 @@
+![Jakov Noskov Banner](https://raw.github.com/jakovnoskov/jakovnoskov/master/logo.png)
 More about me
 ```kotlin
 val noskov = developer {
