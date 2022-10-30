@@ -1,5 +1,5 @@
 More about me
-```JavaScript
+```kotlin
 val terrakok = developer {
     about {
         name = "Яков Носков"
@@ -8,6 +8,7 @@ val terrakok = developer {
     tech("JavaScript", "React", "React Native")
     links {
         telegram = "@someonesess"
+        email = 'jakovnoskov@hotmail.com',
     }
 }
 ```
